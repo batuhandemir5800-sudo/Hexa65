@@ -1,8 +1,8 @@
 ﻿#include <iostream>
 #include <string>
-#include <vector>  // Liste için
-#include <sstream>  // std::stringstream için
-#include <iomanip>  // std::hex için
+#include <vector> 
+#include <sstream> 
+#include <iomanip> 
 #include <fstream>
 #include <conio.h>
 #include <windows.h>
@@ -2924,4 +2924,5 @@ void main(){
             PcSys();
         }
     }
+
 }
